@@ -9,6 +9,7 @@ Repositório com meus projetos de estudo em Java, focando em Programação Orien
 - **ContaBancaria** - Sistema de conta bancária com depósito e saque
 - **ControleAcademico** - Sistema para gerenciar alunos e notas
 - **Retangulo** - Constructor com altura e largura, com metodos de calcular area e perimetro
+- **Pizzaria** - Sistema de criaçao de pedidos com gerenciamento de ingredientes sabores e valores
 
 ##  Tecnologias
 
@@ -36,7 +37,8 @@ Repository with my Java study projects, focusing on Object-Oriented Programming 
 - **ContaBancaria** - Bank account system with deposit and withdrawal
 - **ControleAcademico** - System to manage students and grades
 - **Retangulo** - Constructor with height and width, with methods to calculate area and perimeter
-
+- **Pizzaria** - Pizzaria managing system, includes: management of flavors, ingredients, and price values.
+  
 ##  Technologies
 
 - Java
