@@ -2,7 +2,7 @@
 
 Repositório com meus projetos de estudo em Java, focando em Programação Orientada a Objetos (POO).
 
-## 📁 Projetos
+##  Projetos
 
 - **Biblioteca** - Sistema simples de gerenciamento de biblioteca
 - **Computador** - Modelagem de um computador com metodos switch ligar e desligar
@@ -10,12 +10,12 @@ Repositório com meus projetos de estudo em Java, focando em Programação Orien
 - **ControleAcademico** - Sistema para gerenciar alunos e notas
 - **Retangulo** - Constructor com altura e largura, com metodos de calcular area e perimetro
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Java
 - Eclipse IDE
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
    git clone https://github.com/ITUMOMAZ/Java-oop.git
@@ -29,7 +29,7 @@ Selecione a pasta do projeto e execute como Java Application
 
 Repository with my Java study projects, focusing on Object-Oriented Programming (OOP).
 
-## 📁 Projects
+##  Projects
 
 - **Biblioteca** - Simple library management system
 - **Computador** - Computer modeling with switch methods to turn on and off
@@ -37,12 +37,12 @@ Repository with my Java study projects, focusing on Object-Oriented Programming 
 - **ControleAcademico** - System to manage students and grades
 - **Retangulo** - Constructor with height and width, with methods to calculate area and perimeter
 
-## 🛠️ Technologies
+##  Technologies
 
 - Java
 - Eclipse IDE
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 git clone https://github.com/ITUMOMAZ/Java-oop.git
